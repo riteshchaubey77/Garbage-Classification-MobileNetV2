@@ -1,0 +1,7 @@
+# 📁 Dataset Download Link
+
+Click the below link to download the dataset:
+
+🔗 https://drive.google.com/file/d/1VJ_Jh-XUc0bsLQMYbnlM1OHow2OKRRUI/view?usp=sharing
+
+Note: This is the dataset used in the AICTE internship project for garbage classification using MobileNetV2.
