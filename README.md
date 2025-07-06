@@ -54,7 +54,14 @@ Each folder contains the following 5 classes:
 
 - `garbage_classification.ipynb` — Jupyter notebook (main code)
 - `garbage_classifier_model.keras` — Trained model
+- Dataset (Google Drive link below)
 - (Optional) `images/` — Screenshots or visual outputs if added
+
+---
+
+## 📁 Dataset Link
+
+[Click here to download the dataset (Google Drive)](https://drive.google.com/file/d/1VJ_Jh-XUc0bsLQMYbnlM1OHow2OKRRUI/view?usp=sharing)
 
 ---
 
@@ -70,5 +77,3 @@ The project demonstrates transfer learning, image classification, and model eval
 **Ritesh Kumar**  
 BCA Final Year Student  
 GitHub: [@riteshchaubey77](https://github.com/riteshchaubey77)
-
-
